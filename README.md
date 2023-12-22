@@ -1,8 +1,9 @@
-# React + Vite
+1.This is a small online store
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+2.This project uses such technologies as React, Radax, SCSS
 
-Currently, two official plugins are available:
+3.Transitions between pages using Routes and Rout
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+4.Creating a form using Formik, Form and checking this form validation the Yup library
+
+5.assembling a project using Vue.js
