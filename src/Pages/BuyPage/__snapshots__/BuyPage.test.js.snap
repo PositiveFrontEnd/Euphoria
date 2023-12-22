@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Тестування компонента BuyPage Знімок 1`] = `
+<DocumentFragment>
+  <div
+    class="note__page"
+  >
+    <div>
+      <p
+        class="page__title"
+      >
+         Thanks for shopping 
+      </p>
+      <p
+        class="page__desc"
+      >
+        Manager will call you later !
+      </p>
+      <p>
+        <a
+          href="/"
+        >
+           Home
+        </a>
+      </p>
+    </div>
+  </div>
+</DocumentFragment>
+`;

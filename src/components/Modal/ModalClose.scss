@@ -1,0 +1,14 @@
+.box__closeButton,
+.box__closeButton-white {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  border: none;
+  font-size: 20px;
+  background-color: white;
+  cursor: pointer;
+}
+.box__closeButton-white {
+  background-color: rgb(115, 100, 100);
+  color: white;
+}

@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700;800&display=swap");
+.nav {
+  display: flex;
+
+  .nav__list {
+    font-family: "Open Sans", sans-serif;
+    display: flex;
+    align-items: center;
+    margin-left: 90px;
+    gap: 40px;
+  }
+  .nav__item {
+    color: #807d7e;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding: 0 3px;
+    cursor: pointer;
+  }
+  .nav__item:hover {
+    color: white;
+    font-weight: 600;
+  }
+}

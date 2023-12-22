@@ -1,0 +1,50 @@
+.box__button-second {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.box__button {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+
+  .button-purple,
+  .button-white {
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+
+  .button-purple {
+    color: white;
+    background-color: rgb(56, 56, 103);
+  }
+  .button-white {
+    background-color: white;
+    color: rgb(147, 48, 255);
+  }
+}
+.first__modal,
+.second__modal {
+  padding: 20px 40px;
+  background-color: rgb(4, 30, 21);
+  color: white;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.second__modal {
+  margin-left: 50px;
+}
+.button__white {
+  display: flex;
+  padding: 10px 50px;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  border-radius: 8px;
+  background-color: #3c4242;
+  max-width: 280px;
+}

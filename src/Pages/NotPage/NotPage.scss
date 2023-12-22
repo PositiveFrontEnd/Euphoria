@@ -1,0 +1,31 @@
+.note__page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 500px;
+  text-align: center;
+
+  .page__title {
+    font-size: 50px;
+  }
+  .page__desc {
+    font-size: 18px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  a {
+    padding: 10px 50px;
+    color: #fff;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: normal;
+    border-radius: 8px;
+    background-color: #3c4242;
+    max-width: 280px;
+  }
+  a:hover {
+    color: #121212;
+    background-color: #666b6b;
+  }
+}

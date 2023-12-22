@@ -1,0 +1,12 @@
+export const selectFavorites = (state) => state.favorites;
+export const selectApp = (state) => state.cardsArr;
+export const selectorFavoritesIndex = (state) => state.favoritesIndex;
+export const selectorBaskets = (state) => state.baskets;
+export const selectorBasketsItem = (state) => state.basketsItem;
+export const selectorCurrentCard = (state) => state.currentCard;
+export const selectorIsModal = (state) => state.isModal;
+export const selectorBasketsCount = (state) => state.baskets.count;
+export const selectorIsForm = (state) => state.isForm;
+export const selectorBasketFormValue = (state) => state.basketFormValue;
+export const selectorIsFormCurrentCurd = (state) => state.isFormCurrentCurd;
+export const selectorIsListOrTables = (state) => state.isListOrTables;

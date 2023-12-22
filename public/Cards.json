@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Ring",
+    "price": 5600,
+    "url": "./ProductsImgs/ring1.webp",
+    "article": "ring-5600",
+    "color": "yellow gold",
+    "count": 1
+  },
+  {
+    "name": "Ring",
+    "price": 7300,
+    "url": "./ProductsImgs/ring2.webp",
+    "article": "ring-7300",
+    "color": "yellow gold",
+    "count": 1
+  },
+  {
+    "name": "Ring",
+    "price": 3900,
+    "url": "./ProductsImgs/ring3.webp",
+    "article": "ring-3900",
+    "color": "yellow gold",
+    "count": 1
+  },
+  {
+    "name": "Ring",
+    "price": 12500,
+    "url": "./ProductsImgs/ring4.webp",
+    "article": "ring-12500",
+    "color": "yellow gold",
+    "count": 1
+  },
+  {
+    "name": "Earing",
+    "price": 52600,
+    "url": "./ProductsImgs/earing1.webp",
+    "article": "earing-52600",
+    "color": "yellow gold",
+    "count": 1
+  },
+  {
+    "name": "Earing",
+    "price": 12600,
+    "url": "./ProductsImgs/earing2.webp",
+    "article": "earing-12600",
+    "color": "white gold",
+    "count": 1
+  },
+  {
+    "name": "Earing",
+    "price": 5900,
+    "url": "./ProductsImgs/earing3.webp",
+    "article": "earing-5900",
+    "color": "yellow gold",
+    "count": 1
+  },
+  {
+    "name": "Earing",
+    "price": 13600,
+    "url": "./ProductsImgs/earing4.webp",
+    "article": "earing-13600",
+    "color": "white gold",
+    "count": 1
+  },
+  {
+    "name": "Necklace",
+    "price": 24500,
+    "url": "./ProductsImgs/necklaces1.webp",
+    "article": "necklace-24500",
+    "color": "yellow gold",
+    "count": 1
+  },
+  {
+    "name": "Necklace",
+    "price": 23000,
+    "url": "./ProductsImgs/necklaces2.webp",
+    "article": "necklace-23000",
+    "color": "yellow gold",
+    "count": 1
+  },
+  {
+    "name": "Necklace",
+    "price": 17000,
+    "url": "./ProductsImgs/necklaces3.webp",
+    "article": "necklace-17000",
+    "color": "yellow gold",
+    "count": 1
+  },
+  {
+    "name": "Necklace",
+    "price": 11000,
+    "url": "./ProductsImgs/necklaces4.webp",
+    "article": "necklace-11000",
+    "color": "white gold",
+    "count": 1
+  }
+]

@@ -1,0 +1,86 @@
+.basket {
+  text-align: center;
+  min-height: 2000px;
+  padding-top: 30px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  background-color: rgba($color: #000000, $alpha: 0.3);
+  .basket__box {
+    position: relative;
+    margin: 0 auto;
+    border: 1px solid black;
+    background-color: white;
+    max-width: 1000px;
+    padding-left: 20px;
+    border-radius: 5px;
+    padding-bottom: 100px;
+    display: flex;
+    justify-content: space-between;
+    z-index: 2;
+  }
+}
+.basket__form__close {
+  position: absolute;
+  top: 5px;
+  right: 10px;
+  background-color: #fff;
+  font-size: 25px;
+}
+.basket__form__close:hover {
+  color: #868686;
+}
+.basket__form__submit {
+  display: flex;
+  gap: 5px;
+  position: absolute;
+  bottom: 10px;
+  left: calc(50% - 60px);
+  padding: 10px 20px;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  font-size: 20px;
+  border-radius: 8px;
+  background-color: #3c4242;
+}
+
+.basket__form__submit:hover {
+  color: #121212;
+  background-color: #868686;
+}
+.basket__form {
+  font-size: 22px;
+}
+
+.basket__card__box {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  margin-left: 50px;
+  .basket__form__card {
+    img {
+      height: 150px;
+    }
+    p {
+      font-size: 18px;
+      padding: 10px;
+    }
+  }
+}
+.basket__form__current__card {
+  img {
+    height: 300px;
+  }
+  p {
+    font-size: 30px;
+    padding: 10px;
+  }
+}
+.total__price {
+  display: flex;
+  align-items: center;
+  font-size: 18px;
+}

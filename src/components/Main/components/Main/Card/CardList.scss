@@ -1,0 +1,14 @@
+.card_container {
+  position: relative;
+  padding-top: 100px;
+  .card__list__button {
+    background-color: rgb(255, 252, 247);
+    position: absolute;
+    right: 10px;
+    top: 50px;
+    svg {
+      height: 30px;
+      width: 30px;
+    }
+  }
+}

@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700;800&display=swap");
+.main__shop {
+  background: url(./ShopImg/PhotoCredit.webp) no-repeat;
+  background-size: 100%;
+  min-height: 700px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 50px;
+  color: #fff;
+  font-style: normal;
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  svg {
+    cursor: pointer;
+  }
+  .main__box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 120px;
+    .box__gold__silver {
+      font-size: 32px;
+      font-weight: 500;
+      line-height: 118%;
+      letter-spacing: 0.157px;
+      text-transform: capitalize;
+    }
+    .box__name {
+      font-size: 78px;
+      font-weight: 800;
+      line-height: 120%;
+      letter-spacing: 0.315px;
+    }
+    .box__decoration__type {
+      font-size: 32px;
+      font-weight: 500;
+      line-height: 147%;
+      letter-spacing: 0.315px;
+      padding-bottom: 50px;
+    }
+    .box__button {
+      display: flex;
+      padding: 16px 72px;
+      justify-content: center;
+      align-items: center;
+      color: #3c4242;
+      font-size: 24px;
+      font-weight: 700;
+      line-height: normal;
+      border-radius: 8px;
+      background: #fff;
+      max-width: 280px;
+    }
+    .box__button:hover {
+      color: #fff;
+      background-color: #3c4242;
+    }
+  }
+}

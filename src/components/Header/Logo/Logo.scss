@@ -1,0 +1,28 @@
+@import url("https://fonts.cdnfonts.com/css/mintaka");
+.nav__logo {
+  position: relative;
+  font-family: Mintaka;
+  display: inline-flex;
+  flex-direction: column;
+  cursor: pointer;
+}
+.logo {
+  .logo__euphoria {
+    color: #3c4242;
+    font-size: 34.064px;
+    font-style: normal;
+    line-height: normal;
+    font-weight: 400;
+    text-decoration: underline 1px solid;
+  }
+  .logo__group {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    color: #7c8181;
+    word-spacing: initial;
+    text-align: end;
+    font-style: italic;
+  }
+}

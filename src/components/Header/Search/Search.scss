@@ -1,0 +1,20 @@
+.form {
+  margin-left: 150px;
+  border-radius: 8px;
+  background: #f6f6f6;
+  display: flex;
+  align-items: center;
+  border: 1px solid #f6f6f6;
+  .form__button {
+    padding-left: 20px;
+    background: #f6f6f6;
+  }
+  .form__input {
+    padding: 12px 20px;
+    background: #f6f6f6;
+    border-radius: 8px;
+  }
+}
+.form:hover {
+  border: 1px solid red;
+}
